@@ -13,8 +13,8 @@
   <p>Top 3 things cats hate:</p>
   <ol>
     <li>Water</li>
+    <li>Thunders</li>
     <li>Cucumber</li>
-    <li>Sleep outside the room</li>
-  </ol>   
+  </ol>
 
 </main>
